@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## My Screenshot
 
 You can use the [editor on GitHub](https://github.com/aheredia234/slideshow/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
